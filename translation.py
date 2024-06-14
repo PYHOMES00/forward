@@ -51,11 +51,11 @@ class Translation(object):
 ► __Then Use /forward To Forward Messages__"""
   
   ABOUT_TXT = """<b>🤖 My Name :</b> {}
-<b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
-<b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
-<b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/Mr_persis_bot'>ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>♡ ꜱʜᴜʙʜᴀᴍ ♡</a>
+<b>🧑‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ :</b> <a href='https://t.me/CallAdminRobot'>♡ ꜱʜᴜʙʜᴀᴍ ♡</a>
+<b>📝 ʟᴀɴɢᴜᴀɢᴇ :</b> <a href='https://python.org'>ᴘʏᴛʜᴏɴ 3</a>
+<b>📚 ʟɪʙʀᴀʀʏ :</b> <a href='https://pyrogram.org'>ᴘʏʀᴏɢʀᴀᴍ 2.0</a>
+<b>🚀 ꜱᴇʀᴠᴇʀ :</b> <a href='https://Koyeb.com'>ᴋᴏʏᴇʙ</a>
+<b>📢 ᴄʜᴀɴɴᴇʟ :</b> <a href='https://t.me/Mr_persis_bot'>ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ</a>
 
 <b>♻️ Bot Made By :</b> @Mr_Persis_bot"""
   
@@ -123,6 +123,7 @@ class Translation(object):
 <b>👥 Dublicate Deleted :</b> <code>{}</code>
 
 {}
+
 """
   DOUBLE_CHECK = """<b><u>Double Checking</u></b>
   
@@ -136,8 +137,13 @@ Before Forwarding The Messages Click The Yes Button Only After Checking The Foll
 <i>° [{botname}](t.me/{botuname}) Must Be Admin In <b>Target Chat</b></i> (<code>{to_chat}</code>)
 <i>° If The <b>Source Chat</b> Is Private Your Userbot Must Be Member Or Your Bot Must Be Admin In There Also</i>
 
-<b>If The Above Is Checked Then The Yes Button Can Be Clicked</b>"""
+<b>If The Above Is Checked Then The Yes Button Can Be Clicked
+Maintained By @Mr_Persis_bot✨ </b>"""
 
+DONATE_TXT = """<b> if you liked me . consider make a donation to support my developer 👦</b>
+  
+UPI ID:- <code>MAURYA-SHUBHAM@FAM </code> </B>
+<b> Maintained By @Mr_Persis_bot✨ </b>"""
 
 
 
