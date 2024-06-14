@@ -70,7 +70,8 @@ async def helpcb(bot, query):
             InlineKeyboardButton('⚙️ Settings ⚙️', callback_data='settings#main'),
             InlineKeyboardButton('📊 Stats 📊', callback_data='status')
             ],[
-            InlineKeyboardButton('🔙 Back', callback_data='back')
+            InlineKeyboardButton('🔙 Back', callback_data='back'),
+            InlineKeyboardButton('📊 Stats 📊', callback_data='about')
             ]]
         ))
 
