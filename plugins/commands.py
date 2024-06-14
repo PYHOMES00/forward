@@ -18,7 +18,7 @@ main_buttons = [[
         InlineKeyboardButton('📜 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ', url='https://t.me/Mr_persis_support_group'),
         InlineKeyboardButton('📹 ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ ', url='https://t.me/Mr_persis_bot')
         ],[
-        InlineKeyboardButton('💳 ᴅᴏɴᴀᴛᴇ ᴜꜱ', callback_data='donate')
+        InlineKeyboardButton('💳 ᴅᴏɴᴀᴛᴇ ᴜꜱ', callback_data='DONATE')
         ]]
 
 
