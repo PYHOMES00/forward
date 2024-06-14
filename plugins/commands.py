@@ -18,13 +18,12 @@ from pyrogram import Client, filters, enums, __version__ as pyrogram_version
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InputMediaDocument
 
 main_buttons = [[
-        InlineKeyboardButton('📢 Updates', url='https://t.me/Madflix_Bots'),
-        InlineKeyboardButton('💬 Support', url='https://t.me/MadflixBots_Support')
+        InlineKeyboardButton('❗ ʜᴇʟᴘ', callback_data='help')
         ],[
-        InlineKeyboardButton('🛠️ Help', callback_data='help'),
-        InlineKeyboardButton('🩷 About', callback_data='about')
+        InlineKeyboardButton('📜 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ', url='https://t.me/Mr_persis_support_group'),
+        InlineKeyboardButton('📹 ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ ', url='https://t.me/Mr_persis_bot')
         ],[
-        InlineKeyboardButton('🧑‍💻 Developer 🧑‍💻', url='https://t.me/CallAdminRobot')
+        InlineKeyboardButton('💳 ᴅᴏɴᴀᴛᴇ ᴜꜱ', callback_data='help')
         ]]
 
 
