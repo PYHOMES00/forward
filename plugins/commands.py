@@ -18,7 +18,7 @@ main_buttons = [[
         InlineKeyboardButton('📜 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ', url='https://t.me/Mr_persis_support_group'),
         InlineKeyboardButton('📹 ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ ', url='https://t.me/Mr_persis_bot')
         ],[
-        InlineKeyboardButton('💳 ᴅᴏɴᴀᴛᴇ ᴜꜱ', callback_data='help')
+        InlineKeyboardButton('💳 ᴅᴏɴᴀᴛᴇ ᴜꜱ', callback_data='donate')
         ]]
 
 
@@ -65,13 +65,13 @@ async def helpcb(bot, query):
         text=Translation.HELP_TXT,
         reply_markup=InlineKeyboardMarkup(
             [[
-            InlineKeyboardButton('🛠️ How To Use Me 🛠️', callback_data='how_to_use')
+            InlineKeyboardButton('• ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ᴍᴇ •', callback_data='how_to_use')
             ],[
-            InlineKeyboardButton('⚙️ Settings ⚙️', callback_data='settings#main'),
-            InlineKeyboardButton('📊 Stats 📊', callback_data='status')
+            InlineKeyboardButton('• ꜱᴇᴛᴛɪɴɢꜱ •', callback_data='settings#main'),
+            InlineKeyboardButton('• ꜱᴛᴀᴛꜱ •', callback_data='status')
             ],[
-            InlineKeyboardButton('🔙 Back', callback_data='back'),
-            InlineKeyboardButton('📊 Stats 📊', callback_data='about')
+            InlineKeyboardButton('• ʙᴀᴄᴋ •', callback_data='back'),
+            InlineKeyboardButton('• ᴀʙᴏᴜᴛ •', callback_data='about')
             ]]
         ))
 
