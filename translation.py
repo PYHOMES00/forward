@@ -19,7 +19,7 @@ class Translation(object):
   
 ➻ Click Help Button To Know More About Me
   
-<b>Bot Is Made By @Madflix_Bots</b>"""
+<b>Bot Is Made By @Mr_Persis_bot</b>"""
 
 
   HELP_TXT = """<b><u>🛠️ Help</b></u>
@@ -54,10 +54,10 @@ class Translation(object):
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/Madflix_Bots'>Madflix Botz</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>Jishu Developer</a>
+<b>📢 Channel :</b> <a href='https://t.me/Mr_persis_bot'>ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ</a>
+<b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>♡ ꜱʜᴜʙʜᴀᴍ ♡</a>
 
-<b>♻️ Bot Made By :</b> @Madflix_Bots"""
+<b>♻️ Bot Made By :</b> @Mr_Persis_bot"""
   
   STATUS_TXT = """<b><u>Bot Status</u></b>
   
@@ -146,9 +146,3 @@ Before Forwarding The Messages Click The Yes Button Only After Checking The Foll
 
 
 
-
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
